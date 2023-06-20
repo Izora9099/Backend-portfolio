@@ -1,4 +1,9 @@
 izoragraphics - username
-#AshForever9099MongoDB# - password
+ubChisInsu67bo - password
+//new rubbish password -- ubfcEZ!wuznkh4$
+mongodb+srv://izoragraphics:ubfcEZ!wuznkh4$@reactbackendportfolio.btn8brr.mongodb.net/?retryWrites=true&w=majority
 
 
+
+
+mongodb+srv://izoragraphics:ubChisInsu67bo@reactbackendportfolio.btn8brr.mongodb.net/?retryWrites=true&w=majority
