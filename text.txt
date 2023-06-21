@@ -1,9 +1,2 @@
 izoragraphics - username
-ubChisInsu67bo - password
-//new rubbish password -- ubfcEZ!wuznkh4$
-mongodb+srv://izoragraphics:ubfcEZ!wuznkh4$@reactbackendportfolio.btn8brr.mongodb.net/?retryWrites=true&w=majority
-
-
-
-
-mongodb+srv://izoragraphics:ubChisInsu67bo@reactbackendportfolio.btn8brr.mongodb.net/?retryWrites=true&w=majority
+10ccgkePk8yaCZU7 -CLUSTER PASS
